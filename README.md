@@ -2,7 +2,7 @@
 
 This project uses Spark and Python to analyze and visualize factors which impact household energy consumption.
 
-##Instructions regarding downloading Data Set
+## Instructions regarding downloading Data Set
 
 The sample_data folder includes a sample of the data required to run the Demo Notebook (SmartMeter_LeeMichael_Demo_Notebook.ipynb).  
 The Demo Notebook will not run without downloading the full dataset from Kaggle.
