@@ -1,6 +1,6 @@
 ## Smart Meter Analysis Project
 
-This project uses Spark and Python to analyze and visualize factors which impact household energy consumption.
+This project uses Spark and Python to analyze and visualize factors which impact household energy consumption. 
 
 ## Instructions regarding downloading Data Set
 
